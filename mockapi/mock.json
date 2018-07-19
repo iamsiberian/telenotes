@@ -1,0 +1,24 @@
+{
+  "id": "3dcd5ac0-88d5-11e8-8cc1-8358b452e874",
+  "created": "2018-06-26T09:37:13Z",
+  "updated": "2018-07-10T10:23:26Z",
+  "owner": {
+    "id": "3dcd5ac0-88d5-11e8-8cc1-8358b452e111",
+    "name": "Denis Nelubin",
+    "avatarURL": "http://lalala.com/lalala"
+  },
+  "editors": [
+    {
+      "id": "3dcd5ac0-88d5-11e8-8cc1-8358b452e112",
+      "name": "Vasya Pupkin",
+      "avatarURL": "http://lalala.com/vasya"
+    },
+    {
+      "id": "3dcd5ac0-88d5-11e8-8cc1-8358b452e113",
+      "name": "Petya Petya",
+      "avatarURL": "http://lalala.com/petya"
+    }
+  ],
+  "content": "This is content of the note"
+}
+
